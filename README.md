@@ -79,10 +79,10 @@ A user uploads a rooftop image to estimate solar potential.
 
 **Sample Output:**
 
-!(solar1.png)
-!(solar2.png)
-!(solar3.png)
-![Sample Output Screenshot](solar4.png)
+![Sample Output Screenshot](Solar1.png)
+![Sample Output Screenshot](Solar2.png)
+![Sample Output Screenshot](Solar3.png)
+![Sample Output Screenshot](Solar4.png)
 
 **Interpretation:**  
 - Estimated 81% usable rooftop space.  
