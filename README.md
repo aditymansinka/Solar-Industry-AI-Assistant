@@ -1,4 +1,4 @@
-# Solar Industry AI Assistant 🌞
+# AI Powered Solar Rooftop Analyzer 🌞
 
 A Streamlit-based web application that allows users to upload rooftop satellite images and receive a dynamic, AI-simulated analysis of the rooftop’s solar installation potential. It provides installation recommendations, ROI estimates, and visualizes energy distribution using pie charts.
 
