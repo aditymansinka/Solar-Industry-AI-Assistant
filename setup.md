@@ -16,7 +16,7 @@ Here are the **Local Setup Instructions** for your **Solar Industry AI Assistant
 
 ```bash
 git clone https://github.com/aditymansinka/Solar-Industry-AI-Assistant.git
-cd -Solar-Rooftop-AI-Assistant
+cd Solar-Rooftop-AI-Assistant
 ```
 
 ---
